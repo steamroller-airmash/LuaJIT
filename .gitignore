@@ -10,4 +10,4 @@
 *.swp
 .tags
 
-build
+build/
